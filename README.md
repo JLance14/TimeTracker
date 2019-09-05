@@ -8,3 +8,5 @@ The TimeTracker was programmed in Java, using Android Studio.
 
 
 ![Menu](Time2.PNG)
+
+![Add Task](Time3.PNG)
